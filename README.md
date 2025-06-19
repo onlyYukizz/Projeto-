@@ -12,7 +12,7 @@
       margin: 0;
       padding: 0;
     }
-
+    
     h1 {
       color: #6a1b9a;
       margin-top: 30px;
