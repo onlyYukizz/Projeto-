@@ -12,7 +12,7 @@
       margin: 0;
       padding: 0;
     }
-    
+
     h1 {
       color: #6a1b9a;
       margin-top: 30px;
@@ -24,4 +24,11 @@
     }
 
     .caption {
+      font-style: italic;
+      margin-bottom: 30px;
+    }
+
+    .music-section {
+      background-color: #f3e5f
+
 
